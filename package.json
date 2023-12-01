@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "tree-sitter": "^0.20.6",
+    "tree-sitter-cpp": "^0.20.3",
+    "tree-sitter-python": "^0.20.4"
+  }
+}
